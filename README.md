@@ -1,4 +1,5 @@
-<h1 align="center">Business Insights 360</h1>
+<h1 align="center">AtliQ Hardware</h1>
+<h2 align="center">Business Insights 360</h2>
 
 AtliQ Hardwares, a rapidly expanding electronics manufacturing company, faces a setback due to rely on cumbersome Excel files to store all the data related to Products, Markets, Sales etc. AtliQ made a strategic decision to upheaval to more advanced and integrated data analytics solutions to find key insights and take data driven decisions.
 
