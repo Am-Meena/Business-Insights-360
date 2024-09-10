@@ -2,7 +2,7 @@
 
 AtliQ Hardwares, a rapidly expanding electronics manufacturing company, faces a setback due to rely on cumbersome Excel files to store all the data related to Products, Markets, Sales etc. AtliQ made a strategic decision to upheaval to more advanced and integrated data analytics solutions to find key insights and take data driven decisions.
 
-Live Dashboard
+[Live PowerBI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNGRiYWE4MzAtMGNiNi00ZDFhLTgzZTYtYzIzNGE0MmZmZTEyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 <h3 align="left">💡 Key learnings :</h3>
 <h3 align="left">🔶 Tech stacks :</h3>
@@ -89,6 +89,13 @@ Live Dashboard
   - In the top 5 countries, “AQ 5000 Series Electron 8 5900X Desktop Processor” is the top performing product with a GM% of 39.3%.
  
 <h3 align="left">Recommendations :</h3> 
+
+- Leverage advanced forecasting models (e.g., M.L algorithms) that incorporate real-time data to reduce errors. Frequent adjustments to forecasts based on market conditions and customer behaviour could help refine forecast accuracy.
+- Conduct a detailed cost analysis to identify areas where costs can be reduced, such as operational inefficiencies. Implement cost-control measures, particularly in high-expense areas like logistics, manufacturing, and procurement.
+- Focus on product portfolio optimization by promoting high-margin products. Consider eliminating low-margin products or adjusting pricing to ensure every product contributes to profitability.
+- Adopt advanced inventory management systems to prevent stockouts (OOS). Using AI-powered tools to forecast demand and optimize stock levels would minimize OOS occurrences while balancing inventory holding costs.
+- Reevaluate the discounting strategy to ensure it is aligned with profitability goals. Consider offering targeted discounts based on customer segmentation and purchase behaviours, rather than broad-based discounts that might affect margins.
+- Shift the focus from revenue growth to profitability by implementing a cost-to-profit improvement program. Look for efficiency gains in production, delivery, and marketing operations, and align incentives for sales teams with profit targets, not just revenue.
 
 
 
