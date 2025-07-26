@@ -3,7 +3,7 @@
 
 AtliQ Hardwares, a rapidly expanding electronics manufacturing company, faces a setback due to rely on cumbersome Excel files to store all the data related to Products, Markets, Sales etc. AtliQ made a strategic decision to upheaval to more advanced and integrated data analytics solutions to find key insights and take data driven decisions.
 
-[Live PowerBI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNGRiYWE4MzAtMGNiNi00ZDFhLTgzZTYtYzIzNGE0MmZmZTEyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+[Live PowerBI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjc5NzU0NWYtZGQ5MC00NjFiLTg3ZGItZjYwMDdiNDk0ZWEwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 <h3 align="left">💡 Key learnings :</h3>
 <h3 align="left">🔶 Tech stacks :</h3>
